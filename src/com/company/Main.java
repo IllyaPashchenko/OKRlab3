@@ -7,5 +7,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello merge problem");
         System.out.println("Hello2");
+
+        System.out.println("Hello from clone");
     }
 }
