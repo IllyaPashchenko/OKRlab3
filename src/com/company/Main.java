@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Hello2");
 
         System.out.println("Hello from clone");
+
+        System.out.println("OKR zdacha");
     }
 }
